@@ -93,7 +93,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modules.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="modules.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/STANDARD/assets/views/modules.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
@@ -103,7 +103,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
@@ -183,9 +183,9 @@
         <option value="$PROJECT_DIR$/STANDARD/assets/js/controllers/moduleCtrl.js" />
         <option value="$PROJECT_DIR$/STANDARD/assets/js/config.router.js" />
         <option value="$PROJECT_DIR$/STANDARD/index.html" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/STANDARD/assets/js/controllers/mainCtrl.js" />
         <option value="$PROJECT_DIR$/STANDARD/assets/views/modules.html" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -561,12 +561,12 @@
       <workItem from="1492718307300" duration="747000" />
       <workItem from="1493218571824" duration="5114000" />
       <workItem from="1493411283957" duration="2650000" />
-      <workItem from="1494267945248" duration="1128000" />
+      <workItem from="1494267945248" duration="1460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104702000" />
+    <option name="totallyTimeSpent" value="105034000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -877,14 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/STANDARD/assets/js/controllers/mainCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2385">
@@ -953,6 +945,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="18" selection-start-line="13" selection-start-column="12" selection-end-line="26" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
           <folding />
         </state>
       </provider>
