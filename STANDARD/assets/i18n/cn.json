@@ -1,0 +1,44 @@
+{
+  "overview": {
+    "WELCOME": "欢迎浏览 {{appName}}"
+  },
+  "lltour" : {
+    "HEADER": "客人信息"
+  },
+  "sidebar": {
+    "heading": {
+      "NAVIGATION": "导航",
+      "FEATURES": "核心功能"
+    },
+    "nav": {
+      "overview": {
+        "MAIN": "简介"
+      },
+      "projects": {
+        "MAIN": "项目经验"
+      },
+      "LLtour": {
+        "MAIN": "纵横旅游app"
+      },
+      "resume": {
+        "MAIN": "简历"
+      },
+      "modules": {
+        "MAIN": "组件"
+      },
+      "login": {
+        "MAIN": "登录",
+        "LOGIN": "登录界面",
+        "REGISTRATION": "注册界面",
+        "FORGOT": "忘记密码界面",
+        "LOCKSCREEN": "锁屏界面"
+      }
+    }
+  },
+  "footer": {
+    "copyright": {
+      "MAIN": "版权",
+      "MESSAGE": "拥有所有版权"
+    }
+  }
+}

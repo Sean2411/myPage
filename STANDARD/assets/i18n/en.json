@@ -1,0 +1,44 @@
+{
+  "overview": {
+    "WELCOME": "Welcome to {{appName}}"
+  },
+  "lltour" : {
+    "HEADER": "Custom Information"
+  },
+  "sidebar": {
+    "heading": {
+      "NAVIGATION": "Main Navigation",
+      "FEATURES": "Core Features"
+    },
+    "nav": {
+      "overview": {
+        "MAIN": "Overview"
+      },
+      "projects": {
+        "MAIN": "Projects"
+      },
+      "LLtour": {
+        "MAIN": "LLtour"
+      },
+      "resume": {
+        "MAIN": "Resume"
+      },
+      "modules": {
+        "MAIN": "Moldules"
+      },
+      "login": {
+        "MAIN": "Login",
+        "LOGIN": "Login Form",
+        "REGISTRATION": "Registration Form",
+        "FORGOT": "Forgot Password Form",
+        "LOCKSCREEN": "Lock Screen"
+      }
+    }
+  },
+  "footer": {
+    "copyright": {
+    	"MAIN": "Copyright",
+      	"MESSAGE": "All rights reserved"
+    }
+  }
+}
