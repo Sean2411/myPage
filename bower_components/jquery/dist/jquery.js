@@ -3929,7 +3929,7 @@ jQuery.extend({
 		}
 	},
 
-	// Not public - generate a queueHooks object, or return the current one
+	// Not STANDARD - generate a queueHooks object, or return the current one
 	_queueHooks: function( elem, type ) {
 		var key = type + "queueHooks";
 		return data_priv.get( elem, key ) || data_priv.access( elem, key, {
@@ -4073,7 +4073,7 @@ function safeActiveElement() {
 }
 
 /*
- * Helper functions for managing events -- not part of the public interface.
+ * Helper functions for managing events -- not part of the STANDARD interface.
  * Props to Dean Edwards' addEvent library for many of the ideas.
  */
 jQuery.event = {

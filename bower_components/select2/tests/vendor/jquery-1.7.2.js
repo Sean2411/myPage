@@ -2016,7 +2016,7 @@ function dataAttr( elem, key, data ) {
 function isEmptyDataObject( obj ) {
 	for ( var name in obj ) {
 
-		// if the public data object is empty, the private is still empty
+		// if the STANDARD data object is empty, the private is still empty
 		if ( name === "data" && jQuery.isEmptyObject( obj[name] ) ) {
 			continue;
 		}
@@ -2899,7 +2899,7 @@ var rformElems = /^(?:textarea|input|select)$/i,
 	};
 
 /*
- * Helper functions for managing events -- not part of the public interface.
+ * Helper functions for managing events -- not part of the STANDARD interface.
  * Props to Dean Edwards' addEvent library for many of the ideas.
  */
 jQuery.event = {
@@ -6118,7 +6118,7 @@ function cloneCopyEvent( src, dest ) {
 		}
 	}
 
-	// make the cloned public data object a copy from the original
+	// make the cloned STANDARD data object a copy from the original
 	if ( curData.data ) {
 		curData.data = jQuery.extend( {}, curData.data );
 	}
